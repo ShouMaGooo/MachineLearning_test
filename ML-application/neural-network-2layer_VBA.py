@@ -35,7 +35,6 @@ scaler.fit(x)
 '''
 clf = MLPClassifier(hidden_layer_sizes=40, activation='relu', solver='adam', max_iter=1000)
 
-#(hidden_layer_sizes=10, activation='relu', solver='adam', max_iter=1000)
 
 
 '''
