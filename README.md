@@ -8,9 +8,11 @@ k-nearest-neighbor(knn)_lesson.py
 
 Market_Basket_Analysis.py
 ➡バスケット分析(アソシエーションの一種)を用いた分析モデル
+データは練習の為に架空のものを作成致しました。
 
 recommend_cos0_similarity.ipynb
-➡コサイン類似度を利用した協調フィルタリング
+➡コサイン類似度を利用した協調フィルタリングモデルとなっています。
+映画のレコメンドシステムを想定したものになります。
 
 
    # ML-application
