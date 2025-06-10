@@ -1,18 +1,22 @@
-# MachineLearning_test
 
-k-means_lesson.py
-   ➡k-means法を用いた分析モデル
+ 
+ # MachineLearning_test
 
-k-nearest-neighbor(knn)_lesson.py
-   ➡k近傍法を用いたクラスター分析
+   k-means_lesson.py
+      ➡k-means法を用いた分析モデル
 
-Market_Basket_Analysis.py
-   ➡バスケット分析(アソシエーションの一種)を用いた分析モデル
-   データは練習の為に架空のものを作成致しました。
+   k-nearest-neighbor(knn)_lesson.py
+      ➡k近傍法を用いたクラスター分析
 
-recommend_cos0_similarity.ipynb
-   ➡コサイン類似度を利用した協調フィルタリングモデルとなっています。
-   映画のレコメンドシステムを想定したものになります。
+   Market_Basket_Analysis.py
+      ➡バスケット分析(アソシエーションの一種)を用いた分析モデル
+      データは練習の為に架空のものを作成致しました。
+
+   recommend_cos0_similarity.ipynb
+      ➡コサイン類似度を利用した協調フィルタリングモデルとなっています。
+      映画のレコメンドシステムを想定したものになります。
+
+
 
 
    # ML-application
