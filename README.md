@@ -6,13 +6,13 @@
 『ML-application』フォルダ内の分析モデルは、csvファイルからデータを読み込み、ダミーの1レコードデータを用いて予測を行っています。
 
    k-means_lesson.py  
-      ➡k-means法を用いた分析モデル
+      ➡k-means法を用いたクラスター分析モデルです。
 
    k-nearest-neighbor(knn)_lesson.py  
-      ➡k近傍法を用いたクラスター分析
+      ➡k近傍法を用いたクラスター分析です。
 
    Market_Basket_Analysis.py  
-      ➡バスケット分析(アソシエーションの一種)を用いた分析モデル
+      ➡バスケット分析(アソシエーションの一種)を用いた分析モデル。
       データは練習の為に架空のものを作成致しました。
 
    recommend_cos0_similarity.ipynb  
